@@ -5,7 +5,7 @@
 -- Create Date:         
 -- Design Name:         Min_Max Module for Image Statistics IP Core
 -- Module Name:         Min_Max - Behavioral
--- Project Name:        Bronchoscopy
+-- Project Name:        
 -- Target Devices:      ZC702 Evaluation Board
 -- Tool Versions:       Vivado 2018.1
 -- Description:         
